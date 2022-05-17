@@ -1,1 +1,1 @@
-# Android-LAVA-IRISX8-Vendor-Tree-MT6592
+# Android-PANASONIC-P81-Vendor-Tree-MT6592
